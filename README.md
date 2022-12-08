@@ -5,7 +5,6 @@
 - 📫 How to reach me? reach me via 
 - email: andreldaga21@gmail.com
 - linkedin: https://www.linkedin.com/in/andrel-daga/
-- instagram: @andrel_daga
 
 <!---
 AndrelDaga/AndrelDaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
