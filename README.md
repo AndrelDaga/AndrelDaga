@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrelDaga
-- 👀 I’m interested in cutting-edge technologies and how they can be used to solve problems for myself and for those around me.
-- 🌱 I’m currently learning Software Engineering at ALX
+- 👀 I’m interested in software development and Data Science and how they can be used to solve problems for myself and for those around me.
+- 🌱 I’m currently completing my BSc Computing qualification
 - 💞️ I’m looking to collaborate on Open Source projects as well as my startup ideas
 - 📫 How to reach me? reach me via 
 - email: andreldaga21@gmail.com
