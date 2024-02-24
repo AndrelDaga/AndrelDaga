@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrel Daga
-- 🌱 I’m a software engineer currently completing my BSc Computing Certification.
+- 🌱 I’m a software engineer currently completing my BSc Computing qualification.
 - 💞️ I’m open to collaborate on projects that will help a lot of people.
 - 📫 How to reach me? reach me via 
 - email: andreldaga21@gmail.com
